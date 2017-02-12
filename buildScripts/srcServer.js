@@ -11,6 +11,7 @@ import open from 'open';
 //webpack addition(s)
 import webpack from 'webpack';
 /* eslint-disable no-console */
+// comment
 import config from '../webpack.config.dev';
 
 const port = 3000;
